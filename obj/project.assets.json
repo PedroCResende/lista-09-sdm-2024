@@ -2860,27 +2860,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ariad\\.nuget\\packages\\": {}
+    "C:\\Users\\pedro\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ariad\\Documents\\CinemaAPI\\CinemaAPI.csproj",
+      "projectUniqueName": "C:\\Users\\pedro\\Downloads\\CinemaAPI\\CinemaAPI- PedroCResende\\CinemaAPI.csproj",
       "projectName": "CinemaAPI",
-      "projectPath": "C:\\Users\\ariad\\Documents\\CinemaAPI\\CinemaAPI.csproj",
-      "packagesPath": "C:\\Users\\ariad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ariad\\Documents\\CinemaAPI\\obj\\",
+      "projectPath": "C:\\Users\\pedro\\Downloads\\CinemaAPI\\CinemaAPI- PedroCResende\\CinemaAPI.csproj",
+      "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pedro\\Downloads\\CinemaAPI\\CinemaAPI- PedroCResende\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ariad\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2942,7 +2939,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
